@@ -1,6 +1,44 @@
-# SelectAndTranslate v1.0.0 下载
+# SelectAndTranslate v1.0.0 — Free Windows Translation Tool
 
-**帮你停止翻译的翻译工具** · [官网 Website](https://selectandtranslate.z7.web.core.windows.net/)
+**The translator built to help you stop translating.** · [Website](https://selectandtranslate.z7.web.core.windows.net/)
+
+A free Windows tool for **select-to-translate** (GPT-4o), **screenshot OCR translation**, **AI vocabulary extraction** (with IPA & etymology, exportable to Anki), and **wallpaper learning**. Works in any app, in any language. **Completely free, no account, just download — you do not need your own API key.**
+
+## 📥 Download
+
+👉 **[Download SelectAndTranslate_Setup_v1.0.0.exe](https://github.com/YanaYuan/SelectAndTranslate-Releases/raw/main/SelectAndTranslate_Setup_v1.0.0.exe)**
+
+- **Size:** 49.4 MB
+- **Requirements:** Windows 10 / 11 (64-bit)
+
+## ✨ Features
+
+- **Instant select-to-translate** — Select any text on screen in any app, get an AI (GPT-4o) translation popup instantly. Toggle with **Alt+Q**.
+- **Screenshot / OCR translation** — Translate text inside images, screenshots, and video subtitles. Screenshot-translate with **Alt+W**.
+- **Automatic vocabulary builder** — AI extracts vocabulary from your reading history with IPA, etymology, and context sentences. Export to Anki (CSV).
+- **Wallpaper learning** — Turns your vocabulary into a desktop wallpaper that rotates hourly, so you review passively every time you see your desktop.
+
+## 🔧 Install
+
+1. Download the installer above.
+2. Run `SelectAndTranslate_Setup_v1.0.0.exe`.
+3. Follow the setup prompts.
+4. Open it and start using it — **no sign-up, no configuration, no API key required.**
+
+## 🔒 Privacy
+
+- All vocabulary data is stored **locally** (SQLite). It is never uploaded to any server.
+- When you translate, the selected text is sent to OpenAI's GPT-4o API for translation (required for it to work). Nothing else is sent anywhere.
+- No account, no telemetry, no background data collection.
+- **The API cost is covered by the author — you do not need your own API key.**
+
+For more features and screenshots, visit the [website](https://selectandtranslate.z7.web.core.windows.net/).
+
+---
+
+# SelectAndTranslate v1.0.0 下载（中文）
+
+**帮你停止翻译的翻译工具** · [官网](https://selectandtranslate.z7.web.core.windows.net/)
 
 免费的 Windows 划词翻译工具：划词即翻译（GPT-4o）、截图 OCR 翻译、AI 自动提取生词、生词壁纸被动学习。**完全免费，无需注册，下载即用——不需要你自己的 API key。**
 
@@ -8,10 +46,8 @@
 
 👉 [点击这里下载 SelectAndTranslate_Setup_v1.0.0.exe](https://github.com/YanaYuan/SelectAndTranslate-Releases/raw/main/SelectAndTranslate_Setup_v1.0.0.exe)
 
-**文件大小：** 49.4 MB
-**系统要求：** Windows 10/11 (64位)
-
----
+- **文件大小：** 49.4 MB
+- **系统要求：** Windows 10/11（64 位）
 
 ## ✨ 核心功能
 
@@ -34,8 +70,8 @@
 - 没有账号，没有遥测，没有后台数据收集。
 - **API 费用由作者承担，你不需要自己的 API key。**
 
+更多功能介绍与截图，见 [官网](https://selectandtranslate.z7.web.core.windows.net/)。
+
 ---
 
-感谢使用 SelectAndTranslate！🚀
-
-更多功能介绍与截图，见 [官网](https://selectandtranslate.z7.web.core.windows.net/)。
+感谢使用 SelectAndTranslate！Thanks for using SelectAndTranslate! 🚀
